@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <!-- Задание №7. Сделайте XML на основе приведённого примера, у которого тег point будет иметь параметр
+        unit - еденицы измерения. Возможные значения - cm, mm, px-->
+<pointList>
+<point>
+    <x>2</x>
+    <y>8</y>
+    <unit>cm</unit>
+</point>
+<point>
+    <x>6</x>
+    <y>0</y>
+    <unit>px</unit>
+</point>
+</pointList>
+        <!-- https://webmaster.yandex.ru/tools/xml-validator/ -->
