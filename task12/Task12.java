@@ -1,4 +1,4 @@
-package topic4XML;
+package topic4XML.task12;
 
 import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerConfigurationException;
@@ -16,7 +16,7 @@ import java.io.IOException;
  */
 
 public class Task12 {
-    public static final String PATHtoXSLT ="E:\\Работа\\Віталюга\\It-academi\\AdvancedLevel\\src\\topic4XML\\Task12XSLT.xsl";
+    public static final String PATHtoXSLT ="E:\\Работа\\Віталюга\\It-academi\\AdvancedLevel\\src\\topic4XML\\task12\\Task12XSLT.xsl";
     public static final String PATHtoXML ="E:\\Работа\\Віталюга\\It-academi\\AdvancedLevel\\src\\topic4XML\\PointList.xml";
 
     public static void main(String[] args) {
